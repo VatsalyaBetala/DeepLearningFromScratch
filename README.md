@@ -23,11 +23,7 @@ This single Jupyter notebook encompasses a full journey through the fundamentals
 ## Contributing
 This project is open for contributions, improvements, and any suggestions from the community. Feel free to fork, star, or clone the repository, and contribute back if you find ways to enhance the existing implementations.
 
-## License
-This project is released under the [MIT License](LICENSE).
-
 ## Acknowledgments
 - Thanks to all the online resources that made this learning documentation possible.
-- Gratitude to the AI and machine learning communities for their continuous support and inspiration.
 
 Enjoy diving into deep learning with a hands-on approach!
