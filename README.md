@@ -5,7 +5,7 @@ This repository contains two comprehensive Jupyter notebooks that guide you thro
 ## Notebooks Overview
 
 ### 1. `Deep_Learning_Journey.ipynb`
-This notebook is divided into several sections, each dedicated to a different aspect of neural network implementation.
+This notebook is divided into several sections, each dedicated to a different aspect of neural network implementation from the foundational level
 
 #### Sections
 1. **Implementing Perceptron from Scratch**
