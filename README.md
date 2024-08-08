@@ -1,5 +1,6 @@
 # Deep Learning Notebook
 
+This a purposeful change, just for the purpose of testing
 This repository contains two comprehensive Jupyter notebooks that guide you through the fundamentals and advanced concepts of deep learning. Perfect for beginners and intermediate learners, these notebooks cover everything from perceptrons to convolutional neural networks (CNNs), and demonstrate the implementation using TensorFlow's Keras.
 
 ## Notebooks Overview
